@@ -27,9 +27,7 @@ plt.scatter(x_train[:, 0], x_train[:, 1], marker="o", c=y_train, s=25, edgecolor
 plt.show()
 ```
 
-Looking at the example code it seems everything we need to solve this has already been given to us without the need for any manipulation of the data.  
-  
-Looking at the scatterplot from the example code, the data seems to be grouped in two very nice clusters and should be plenty enough to train a classifier.
+Looking at the example code it seems everything we need to solve this has already been given to us without the need for any manipulation of the data, and the scatterplot from the example code show the data to be grouped in two very nice clusters and should be plenty enough to train a classifier.
 
 ![](scatterplot.png)
 
