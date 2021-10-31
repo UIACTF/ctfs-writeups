@@ -1,2 +1,4 @@
-# ctfs-writeups
-all writeups from events we've hosted
+# CTF-Writeups
+
+Writeups from UiA-CTF Team Members
+
