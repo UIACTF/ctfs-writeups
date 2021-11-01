@@ -3,7 +3,7 @@
 > <br/>
 > **Category:** Crypto
 >
-> ![alt text](https://ctf.equinor.com/images/Vigenere.png "CTF hint")
+> ![alt text](https://upload.wikimedia.org/wikipedia/commons/1/1a/Vigenere.jpg "CTF hint")
 ><br/>
 >**Downloads**<br/>
 > [cipher.txt](https://ctf.equinor.com/uploads?key=8d43c577215d9ddc0a08648b7f58d518c3c5935469e4da03ca9f29a40725364f%2Fcipher.txt "https://ctf.equinor.com/uploads?key=8d43c577215d9ddc0a08648b7f58d518c3c5935469e4da03ca9f29a40725364f%2Fcipher.txt")
