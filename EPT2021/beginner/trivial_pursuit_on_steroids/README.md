@@ -8,7 +8,7 @@
 
 When connecting to the server you are served different questions like solving math equations or converting base64 to ascii. There are 100 questions, the order of the questions is random each time, and you have 5 seconds to answer each question.
 
-By just connecting to `io.ept.gg 30023` multiple times we can figure out that the type of questions we get are:
+By connecting to `io.ept.gg 30023` multiple times we can figure out that the type of questions we get are:
 
 - Decode morse code to ascii
 - Decode base64 to ascii
