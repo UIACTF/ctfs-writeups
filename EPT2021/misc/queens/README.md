@@ -70,7 +70,7 @@ if __name__ == '__main__':
     board_size = 8
     main(board_size)
 ```
-I appended the example code with a couple of nested loops to cross check the list of solutions with an array of predefined queens that i could modify, and thereafter print a solution that matched the syntax that the challenge requests. You can find the complete script [here](badsolver.py).
+I appended the example code with a couple of nested loops to cross check the list of solutions with an array of predefined queens that i could modify, and thereafter print a solution that matched the syntax that the challenge requests. You can find the complete OR-tools script [here](badsolver.py).
 
 ```python
         for a in range(board_size):
