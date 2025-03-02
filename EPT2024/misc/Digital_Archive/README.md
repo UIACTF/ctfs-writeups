@@ -1,6 +1,6 @@
 # Digital Archive
 
-**Author:** `Egge`
+**Author:** `Egge99`
 
 ## Description
 
